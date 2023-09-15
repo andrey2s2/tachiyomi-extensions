@@ -15,7 +15,7 @@
 
                 <!-- DesuActivity sites can be added here. -->
                 <data
-                    android:host="desu.me"
+                    android:host="desu.win"
                     android:pathPattern="/manga/..*"
                     android:scheme="https" />
             </intent-filter>
